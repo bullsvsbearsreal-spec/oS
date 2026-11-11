@@ -16,11 +16,23 @@ Do **not** recreate video rendering, scrapers, CRM databases, or backend domain 
 
 ## Start here
 
-1. [UI reference collection — 15 examples](docs/UI-REFERENCES.md)
-2. [Proposed design system](docs/DESIGN-SYSTEM.md)
-3. [Architecture and GDPR guardrails](docs/ARCHITECTURE.md)
-4. [Codex / Claude task 01](docs/CODEX-TASK-01.md)
-5. [Progress checklist](STATUS.md)
+1. **[Visual research gallery + 4 original design previews](docs/VISUAL-RESEARCH.md)**
+2. [UI reference collection — 15 examples](docs/UI-REFERENCES.md)
+3. [Proposed design system](docs/DESIGN-SYSTEM.md)
+4. [Architecture and GDPR guardrails](docs/ARCHITECTURE.md)
+5. **[Codex visual handoff](docs/CODEX-VISUAL-HANDOFF.md)**
+6. [Codex / Claude task 01](docs/CODEX-TASK-01.md)
+7. [Progress checklist](STATUS.md)
+
+## Original concept gallery
+
+> All visuals below are original **design concepts**, not third-party website screenshots or evidence of running software.
+
+![OutreachOS marketing landing concept](research/visuals/01-landing-concept.svg)
+
+| Dashboard | Video Studio | Approvals |
+|---|---|---|
+| [View dashboard design](research/visuals/02-dashboard-concept.svg) | [View Video Studio](research/visuals/03-video-studio-concept.svg) | [View Approval Center](research/visuals/04-approval-center-concept.svg) |
 
 ## Next step
 
