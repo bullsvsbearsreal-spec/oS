@@ -9,9 +9,13 @@ _Last updated: 2026-11-11_
 - [x] Propose design tokens and animation principles
 - [x] Document frontend/external backend service boundary and compliance guardrails
 - [x] Prepare first Codex task prompt
+- [x] Add 4 original visual mockups under `research/visuals/`
+- [x] Add external reference catalog with live source links and motion specifications
+- [x] Add `docs/CODEX-VISUAL-HANDOFF.md`
 
 ## Pending
 
+- [ ] Add licensed/authorized third-party screenshots only if needed (none mirrored into public repo)
 - [ ] Add original frontend repository source, if separate (do not overwrite it)
 - [ ] Validate external service API contracts, approval model and ledger/audit authority with partner
 - [ ] Implement Next.js app shell and navigation
